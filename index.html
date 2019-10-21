@@ -5,8 +5,38 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>Depan rumah @sakitkepala</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="https://fonts.googleapis.com/css?family=Bungee+Shade|Modak&display=swap" rel="stylesheet">
+    <style>
+      * {
+        margin: 0;
+      }
+
+      body {
+        background-color: #F0FFFF;
+      }
+    
+      h1.h-andika {
+        margin-top: 160px;
+        text-align: center;
+        font-size: 4em;
+        font-family: 'Bungee Shade', cursive;
+        color: #4169E1;
+      }
+
+      p.tahun {
+        text-align: center;
+        font-size: 5em;
+        font-family: 'Modak', cursive;
+        color: #4169E1;
+      }
+    </style>
   </head>
   <body>
-    <h1>@SAKITKEPALA</h1>
+    <h1 class="h-andika">Andika Priyotama</h1>
+    <p class="tahun"></p>
+
+    <script>
+      document.getElementsByClassName('tahun')[0].innerHTML = "- " + new Date().getFullYear() + " -";
+    </script>
   </body>
 </html>
