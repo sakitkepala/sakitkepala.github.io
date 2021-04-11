@@ -1,0 +1,1 @@
+(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[16],{"9vIs":function(e,n,s){"use strict";s.r(n),s.d(n,"Screen",(function(){return r}));var c=s("nKUr");s("q1tI");function r(){return Object(c.jsxs)("div",{className:"eksperimen-display",children:[Object(c.jsx)("h1",{children:"Eksperimen 2"}),Object(c.jsx)("p",{children:"Hoooyeaaaa..."})]})}}}]);
