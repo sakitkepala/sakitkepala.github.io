@@ -1,1 +1,0 @@
-(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[11],{szfb:function(e,n,r){"use strict";r.r(n),r.d(n,"Screen",(function(){return c}));var s=r("nKUr");r("q1tI");function c(){return Object(s.jsxs)("div",{className:"eksperimen-screen",children:[Object(s.jsx)("h1",{children:"Eksperimen 1"}),Object(s.jsx)("p",{children:"Eksperimen interaktif..."})]})}}}]);
